@@ -1,0 +1,12 @@
+{
+  "profile": {
+    "screenName" : "John Doe",
+    "avatar" : "https://picsum.photos/id/237/200/200",
+    "followers" : "72k",
+    "followedByMe" : false
+  },
+  "follow": {
+    "success" : true,
+    "followedByMe" : true
+  }
+}
